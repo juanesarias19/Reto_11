@@ -12,5 +12,8 @@
 |8| **islower**       | Devuelve True si la cadena es todo minúsculas.                       | ```"Hola mundo".islower()``` <br> Retorna ```False```      |
 |9| **isupper**       | Devuelve True si la cadena es todo mayúsculas.                       | ```"Hola mundo".isupper()```<br> Retorna```False```    |
 
-Nota: El ejercicio 2 se encuentra en el notebook anexo a este repositorio
+### Nota: El ejercicio 2 se encuentra en el archivo anexo a este repositorio
 
+Ejemplo de la ejecución del codigo en el archivo anexo
+
+![image](https://github.com/user-attachments/assets/a5def265-dd7f-4e4b-90ca-434f2e8d4f0f)
